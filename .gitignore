@@ -5,3 +5,6 @@ demo
 phase2/.idea/
 phase2/target/
 *.class
+.idea/
+Phase1/demo
+Phase1/demp
